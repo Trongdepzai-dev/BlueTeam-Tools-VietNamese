@@ -23,6 +23,11 @@ Một số **công cụ** có thể được thiết kế riêng cho **blue team
 > *Nhấn 🔙 để quay lại danh sách. Có thể 1 số cái không hoạt động như mong muốn* =))
 >
 > *Bài viết này sử dụng **MIT License***
+> 
+>  Xin chân thành cảm ơn những người đã đóng góp cho dự án này:
+>
+> @[Junior-Frontend-dev](https://github.com/Junior-Frontend-dev)
+
 
 # **Danh sách công cụ**
 
