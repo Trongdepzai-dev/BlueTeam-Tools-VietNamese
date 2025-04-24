@@ -21,6 +21,8 @@ Một số **công cụ** có thể được thiết kế riêng cho **blue team
 > *Ẩn các tiêu đề của **Danh sách công cụ** bằng mũi tên.*
 >
 > *Nhấn 🔙 để quay lại danh sách. Có thể 1 số cái không hoạt động như mong muốn* =))
+>
+> *Bài viết này dùng **MIT License***
 
 # **Danh sách công cụ**
 
