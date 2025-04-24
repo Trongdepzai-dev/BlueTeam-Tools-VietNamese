@@ -6,7 +6,7 @@
 
 Kho lưu trữ Github này chứa bộ sưu tập **65+** **công cụ** và **tài nguyên** có thể hữu ích cho các **hoạt động blue teaming**.
 
-Một số **công cụ** có thể được thiết kế riêng cho **blue teaming**, trong khi những **công cụ** khác có tính chất tổng quát hơn và có thể được điều chỉnh để sử dụng trong bối cảnh **blue teaming**.
+Một số **công cụ** có thể được thiết kế riêng cho **blue teaming**, trong khi những **công cụ** khác có tính chất tổng quát hơn và có thể được điều chỉnh để sử dụng cho **blue teaming**.
 
 > 🔗 Nếu bạn là **Red Teamer**, hãy xem xét [**RedTeam-Tools**](https://github.com/Trongdepzai-dev/RedTeam-Tools-VietNamese)
 
@@ -14,13 +14,13 @@ Một số **công cụ** có thể được thiết kế riêng cho **blue team
 >
 > *Các tài liệu trong kho lưu trữ này chỉ dành cho mục đích thông tin và giáo dục. Chúng không nhằm mục đích sử dụng trong bất kỳ hoạt động bất hợp pháp nào.*
 >
-> *Đây là 1 bản port **Việt Hoá** và thêm 1 số lưu ý từ dự án [**BlueTeam-Tools**](https://github.com/A-poc/BlueTeam-Tools) và [**RedTeam-Tools**](https://github.com/A-poc/RedTeam-Tools)*
+> *Đây là 1 bản port **Việt Hoá** và thêm 1 số **lưu ý** từ dự án [**BlueTeam-Tools**](https://github.com/A-poc/BlueTeam-Tools) và [**RedTeam-Tools**](https://github.com/A-poc/RedTeam-Tools)*
 > 
 > **Ghi chú**
 >
 > *Ẩn các tiêu đề của **Danh sách công cụ** bằng mũi tên.*
 >
-> *Nhấn 🔙 để quay lại danh sách.*
+> *Nhấn 🔙 để quay lại danh sách. Có thể 1 số cái không hoạt động như mong muốn* =))
 
 # **Danh sách công cụ**
 
