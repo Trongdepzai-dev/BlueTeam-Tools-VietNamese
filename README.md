@@ -1,3 +1,11 @@
+[![GitHub stars](https://img.shields.io/badge/stars-27054-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/stargazers)
+[![GitHub forks](https://img.shields.io/badge/forks-2-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/network/members)
+[![GitHub license](https://img.shields.io/github/license/Trongdepzai-dev/Hack-quiz2020)](https://github.com/Trongdepzai-dev/Hack-quiz2020/blob/main/LICENSE) 
+[![Rating](https://img.shields.io/badge/rating-4.5%20stars-yellowgreen?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020)
+[![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/releases/tag/v1.0.0)
+[![Activity Level](https://img.shields.io/badge/activity%20level-high-brightgreen?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020)
+
 # **BlueTeam-Tools**
 
 <p align="center">
